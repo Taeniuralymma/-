@@ -2,7 +2,7 @@
 
 int main(){
     int a,b,n=0,c,i;
-    printf("輸入a的b次方");
+    printf("輸入次方");
     scanf("%d %d",&a,&b);
     do{
         c=1;
